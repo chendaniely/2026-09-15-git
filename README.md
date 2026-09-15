@@ -1,6 +1,6 @@
 # 2026-09-15 Git
 
-Materials for today's class on Git and GitHub.
+Materials for today's class on Git and GitHub. Everything here is under a CC-BY-4.0 license.
 
 ## What we'll cover
 
