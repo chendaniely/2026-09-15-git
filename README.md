@@ -1,11 +1,11 @@
-# 2026-09-15 Git
+# 2026-09-15 Git conflicts
 
 Materials for today's class on Git and GitHub. Everything here is under a CC-BY-4.0 license.
 
 ## What we'll cover
 
 - Looking at history
-- Learn about merge conflicts
+- Learn about merge conflicts (making a change to a file in the same place)
 
 ## Setup
 
