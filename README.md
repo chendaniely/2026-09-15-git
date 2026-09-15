@@ -4,9 +4,8 @@ Materials for today's class on Git and GitHub. Everything here is under a CC-BY-
 
 ## What we'll cover
 
-- What version control is and why it matters
-- Making commits
 - Looking at history
+- Learn about merge conflicts
 
 ## Setup
 
