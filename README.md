@@ -1,4 +1,4 @@
-# 2026-09-15 Git
+# Tuesday September 15: Git and Git Conflicts
 
 Materials for today's class on Git and GitHub. Everything here is under a CC-BY-4.0 license.
 
