@@ -10,3 +10,7 @@ Materials for today's class on Git and GitHub. Everything here is under a CC-BY-
 ## Setup
 
 Make sure you have Git installed and a GitHub account before class.
+
+salkdfjklsad
+laskdjflkasdjfkl
+lasdkjflksdjf
