@@ -7,3 +7,7 @@ Materials for today's class on Git and GitHub.
 - What version control is and why it matters
 - Making commits
 - Looking at history
+
+## Setup
+
+Make sure you have Git installed and a GitHub account before class.
